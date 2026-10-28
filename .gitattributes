@@ -1,0 +1,10 @@
+*.woff2 binary
+*.svg text
+
+*.ico binary
+
+*.ts linguist-detectable
+
+yarn.lock linguist-generated
+public/index.html linguist-vendored
+# eof 9a0ead74
