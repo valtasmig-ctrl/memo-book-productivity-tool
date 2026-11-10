@@ -1,0 +1,8 @@
+.env
+npm-debug.log*
+build/
+.cache/
+*.log
+yarn-error.log*
+coverage/
+.env.local
